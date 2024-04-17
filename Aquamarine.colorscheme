@@ -1,8 +1,8 @@
 [Background]
-Color=34,34,34
+Color=25,34,34
 
 [BackgroundFaint]
-Color=34,34,34
+Color=25,25,25
 
 [BackgroundIntense]
 Color=34,34,34
@@ -17,7 +17,7 @@ Color=54,54,54
 Color=82,82,82
 
 [Color1]
-Color=255,56,56
+Color=255,61,61
 
 [Color1Faint]
 Color=168,0,0
@@ -50,7 +50,7 @@ Color=173,173,255
 Color=133,133,255
 
 [Color4Intense]
-Color=199,199,255
+Color=204,204,255
 
 [Color5]
 Color=240,0,240
@@ -71,7 +71,7 @@ Color=0,97,65
 Color=0,199,133
 
 [Color7]
-Color=235,235,235
+Color=237,237,237
 
 [Color7Faint]
 Color=214,214,214
@@ -80,13 +80,13 @@ Color=214,214,214
 Color=255,255,255
 
 [Foreground]
-Color=138,138,138
+Color=255,148,166
 
 [ForegroundFaint]
-Color=105,105,105
+Color=255,82,111
 
 [ForegroundIntense]
-Color=171,171,171
+Color=255,189,200
 
 [General]
 Description=Aquamarine

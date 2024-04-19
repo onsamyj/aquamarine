@@ -4,6 +4,8 @@
 
 This is my attempt to create an accessible color scheme for a terminal I use, [Konsole](https://konsole.kde.org/).
 
+![Table of colors](table.svg)
+
 ## Accessible how?
 
 Contrast, mostly. I just took base colors (blue, red, purple, etc.) and adjusted them using [ColorShark](https://colorshark.io).

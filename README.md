@@ -2,7 +2,7 @@
 
 *WIP*
 
-This is my attempt to create an accessible color scheme for a terminal I use, [Konsole](https://konsole.kde.org/).
+This is my attempt to create an accessible color scheme for the terminals I use, [Konsole](https://konsole.kde.org/) and [Windows Terminal](https://github.com/Microsoft/Terminal).
 
 ![Table of colors](table.svg)
 

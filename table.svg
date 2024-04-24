@@ -1,63 +1,49 @@
 <svg width="480" height="320" version="1.1" viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
-<style>
-tspan {
-    font-size:      12px;
-    font-weight:    normal
-}
-</style>
+<style>tspan {font-size:12px;font-weight:normal}</style>
 
 <rect width="480" height="320" fill="#192222"/>
 <rect width="480" height="32" fill="#000"/>
 
 <g font-family="'Source Code Pro', mono" font-size="16px">
 
-    <g transform="translate(20,22)">
-        <text fill="#ffffff">Normal<tspan dy="-6">AA</tspan></text>
-    <!-- pink #ffc0cb -->
-        <text dy="32" fill="#FF94A6">Text<tspan dy="-6">7.67</tspan></text>
-    <!-- black #000000 -->
-        <text dy="64" fill="#000000">Black<tspan dy="-6">1.30</tspan></text>
-    <!-- red #ff00 -->
-        <text dy="96" fill="#FF3D3D">Red<tspan dy="-6">4.57</tspan></text>
-    <!-- green #008000 -->
-        <text dy="128" fill="#009E00">Green<tspan dy="-6">4.50</tspan></text>
-    <!-- yellow #ffff00 -->
-        <text dy="160" fill="#B8B800">Yellow<tspan dy="-6">7.56</tspan></text>
-    <!-- blue #00ff00 -->
-        <text dy="192" fill="#ADADFF">Blue<tspan dy="-6">7.79</tspan></text>
-    <!-- purple #800080 -->
-        <text dy="224" fill="#F000F0">Purple<tspan dy="-6">4.55</tspan></text>
-    <!-- aquamarine #7fffd4 -->
-        <text dy="256" fill="#009E69">Cyan<tspan dy="-6">4.65</tspan></text>
-    <!-- white #ffffff -->
-        <text dy="288" fill="#EDEDED">White<tspan dy="-6">13.70</tspan></text>
-    </g>
+<g transform="translate(20,22)">
+    <text fill="#ffffff">Normal<tspan dy="-6">AA</tspan></text>
+    <text dy="32" fill="#FF94A6">Text<tspan dy="-6">7.67</tspan></text>
+    <text dy="64" fill="#000000">Black<tspan dy="-6">1.30</tspan></text>
+    <text dy="96" fill="#FF3D3D">Red<tspan dy="-6">4.57</tspan></text>
+    <text dy="128" fill="#009E00">Green<tspan dy="-6">4.50</tspan></text>
+    <text dy="160" fill="#B8B800">Yellow<tspan dy="-6">7.56</tspan></text>
+    <text dy="192" fill="#ADADFF">Blue<tspan dy="-6">7.79</tspan></text>
+    <text dy="224" fill="#F000F0">Purple<tspan dy="-6">4.55</tspan></text>
+    <text dy="256" fill="#009E69">Cyan<tspan dy="-6">4.65</tspan></text>
+    <text dy="288" fill="#EDEDED">White<tspan dy="-6">13.70</tspan></text>
+</g>
 
-    <g transform="translate(180,22)" style="font-weight:bolder">
-        <text fill="#ffffff">Intense<tspan dy="-6">AAA</tspan></text>
-        <text dy="32" fill="#FFBDC8">Text<tspan dy="-6">10.21</tspan></text>
-        <text dy="64" fill="#525252">Black<tspan dy="-6">2.05</tspan></text>
-        <text dy="96" fill="#FF8A8A">Red<tspan dy="-6">7.07</tspan></text>
-        <text dy="128" fill="#00C700">Green<tspan dy="-6">7.00</tspan></text>
-        <text dy="160" fill="#D6D600">Yellow<tspan dy="-6">10.29</tspan></text>
-        <text dy="192" fill="#CCCCFF">Blue<tspan dy="-6">10.03</tspan></text>
-        <text dy="224" fill="#FF75FF">Purple<tspan dy="-6">7.06</tspan></text>
-        <text dy="256" fill="#00C785">Cyan<tspan dy="-6">7.26</tspan></text>
-        <text dy="288" fill="#FFFFFF">White<tspan dy="-6">16.04</tspan></text>
-    </g>
+<g transform="translate(180,22)" style="font-weight:bolder">
+    <text fill="#ffffff">Intense<tspan dy="-6">AAA</tspan></text>
+    <text dy="32" fill="#FFBDC8">Text<tspan dy="-6">10.21</tspan></text>
+    <text dy="64" fill="#525252">Black<tspan dy="-6">2.05</tspan></text>
+    <text dy="96" fill="#FF8A8A">Red<tspan dy="-6">7.07</tspan></text>
+    <text dy="128" fill="#00C700">Green<tspan dy="-6">7.00</tspan></text>
+    <text dy="160" fill="#D6D600">Yellow<tspan dy="-6">10.29</tspan></text>
+    <text dy="192" fill="#CCCCFF">Blue<tspan dy="-6">10.03</tspan></text>
+    <text dy="224" fill="#FF75FF">Purple<tspan dy="-6">7.06</tspan></text>
+    <text dy="256" fill="#00C785">Cyan<tspan dy="-6">7.26</tspan></text>
+    <text dy="288" fill="#FFFFFF">White<tspan dy="-6">16.04</tspan></text>
+</g>
 
-    <g transform="translate(340,22)">
-        <text fill="#ffffff">Faint<tspan dy="-6">Fail</tspan></text>
-        <text dy="32" fill="#FF526F">Text<tspan dy="-6">5.01</tspan></text>
-        <text dy="64" fill="#363636">Black<tspan dy="-6">1.32</tspan></text>
-        <text dy="96" fill="#A80000">Red<tspan dy="-6">2.03</tspan></text>
-        <text dy="128" fill="#006100">Green<tspan dy="-6">2.07</tspan></text>
-        <text dy="160" fill="#999900">Yellow<tspan dy="-6">5.28</tspan></text>
-        <text dy="192" fill="#8585FF">Blue<tspan dy="-6">5.19</tspan></text>
-        <text dy="224" fill="#940094">Purple<tspan dy="-6">2.05</tspan></text>
-        <text dy="256" fill="#006141">Cyan<tspan dy="-6">2.12</tspan></text>
-        <text dy="288" fill="#D6D6D6">White<tspan dy="-6">11.04</tspan></text>
-    </g>
+<g transform="translate(340,22)">
+    <text fill="#ffffff">Faint<tspan dy="-6">Fail</tspan></text>
+    <text dy="32" fill="#FF526F">Text<tspan dy="-6">5.01</tspan></text>
+    <text dy="64" fill="#363636">Black<tspan dy="-6">1.32</tspan></text>
+    <text dy="96" fill="#A80000">Red<tspan dy="-6">2.03</tspan></text>
+    <text dy="128" fill="#006100">Green<tspan dy="-6">2.07</tspan></text>
+   <text dy="160" fill="#999900">Yellow<tspan dy="-6">5.28</tspan></text>
+    <text dy="192" fill="#8585FF">Blue<tspan dy="-6">5.19</tspan></text>
+    <text dy="224" fill="#940094">Purple<tspan dy="-6">2.05</tspan></text>
+    <text dy="256" fill="#006141">Cyan<tspan dy="-6">2.12</tspan></text>
+    <text dy="288" fill="#D6D6D6">White<tspan dy="-6">11.04</tspan></text>
+</g>
 
 </g>
 

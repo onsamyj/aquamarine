@@ -1,0 +1,23 @@
+{
+    "background": "#192222",
+    "black": "#000000",
+    "blue": "#ADADFF",
+    "brightBlack": "#525252",
+    "brightBlue": "#CCCCFF",
+    "brightCyan": "#00C785",
+    "brightGreen": "#00C700",
+    "brightPurple": "#FF75FF",
+    "brightRed": "#FF8A8A",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#D6D600",
+    "cursorColor": "#00C785",
+    "cyan": "#009E69",
+    "foreground": "#FF94A6",
+    "green": "#009E00",
+    "name": "Aquamarine",
+    "purple": "#F000F0",
+    "red": "#FF3D3D",
+    "selectionBackground": "#222222",
+    "white": "#EDEDED",
+    "yellow": "#B8B800"
+}

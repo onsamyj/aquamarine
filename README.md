@@ -1,8 +1,6 @@
 # Aquamarine
 
-*WIP*
-
-This is my attempt to create an accessible color scheme for the terminals I use, [Konsole](https://konsole.kde.org/) and [Windows Terminal](https://github.com/Microsoft/Terminal).
+This is my attempt to create an accessible color scheme for the terminals I use, [Konsole](https://konsole.kde.org) and [Windows Terminal](https://github.com/Microsoft/Terminal).
 
 <p align="center"><img src="table.svg" alt="Table" /></p>
 
@@ -41,4 +39,4 @@ I am color blind, but one scheme will not work for everyone. I have adjusted 
 
 ## Why “Aquamarine”?
 
-This is one of the colors I changed significantly to get away from white and light gray. Otherwise it should be cyan. Then in [Nushell](https://www.nushell.sh/), which I use, you type with that color, so it felt as good a name as any.
+This is one of the colors I changed significantly to get away from white and light gray. Otherwise it should be cyan. Then in [Nushell](https://www.nushell.sh), which I use, you type with that color, so it felt as good a name as any.

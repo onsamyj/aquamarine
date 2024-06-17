@@ -8,14 +8,14 @@ This is my attempt to create an accessible color scheme for the terminal emu
 
 ### [Konsole](https://konsole.kde.org/)
 
-* Place `Aquamarine.Konsole.colorscheme` in `~/.local/share/konsole/`.
+* Place `Aquamarine.colorscheme` in `~/.local/share/konsole/`.
 * In *Konsole*, click the **☰** menu in the top right corner, *Edit Current Profile…*, then *Appearance* on the left, and select *Aquamarine*.
 
 ### [Windows Terminal](https://github.com/Microsoft/Terminal)
 
 * In *Windows Terminal*, click **⌄** on the tab bar, and then click *Settings*.
 * Click *Open JSON file* in the bottom left corner.
-* Copy everything from `Aquamarine.WindowsTerminal.json` to the end of the `"schemes"` block. Remember that blocks in the JSON file must be separated by commas, like this:
+* Copy everything from `WindowsTerminal.json` to the end of the `"schemes"` block. Remember that blocks in the JSON file must be separated by commas, like this:
 ````
 "schemes":
     [
@@ -31,7 +31,7 @@ This is my attempt to create an accessible color scheme for the terminal emu
 
 ### [Termux](https://termux.dev/en/)
 
-Put `colors.properties` into `~/.termux/` and `execute termux-reload-settings`.
+Put `colors.properties` into `~/.termux/` and execute `termux-reload-settings`.
 
 ## Accessible how?
 

@@ -1,0 +1,23 @@
+<svg width="240" height="40" version="1.1" viewBox="0 0 240 40" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="240" height="40" fill="#000000"/>
+<rect width="240" height="40" x="30" fill="#FF3D3D"/>
+<rect width="240" height="40" x="60" fill="#009E00"/>
+<rect width="240" height="40" x="90" fill="#B8B800"/>
+<rect width="240" height="40" x="120" fill="#ADADFF"/>
+<rect width="240" height="40" x="150" fill="#F000F0"/>
+<rect width="240" height="40" x="180" fill="#009E69"/>
+<rect width="240" height="40" x="210" fill="#EDEDED"/>
+
+<g transform="translate(0,20)">
+<rect width="240" height="40" fill="#525252"/>
+<rect width="240" height="40" x="30" fill="#FF8A8A"/>
+<rect width="240" height="40" x="60" fill="#00C700"/>
+<rect width="240" height="40" x="90" fill="#D6D600"/>
+<rect width="240" height="40" x="120" fill="#CCCCFF"/>
+<rect width="240" height="40" x="150" fill="#FF75FF"/>
+<rect width="240" height="40" x="180" fill="#00C785"/>
+<rect width="240" height="40" x="210" fill="#FFFFFF"/>
+</g>
+
+</svg>

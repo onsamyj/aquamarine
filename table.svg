@@ -38,7 +38,7 @@
     <text dy="64" fill="#363636">Black<tspan dy="-6">1.32</tspan></text>
     <text dy="96" fill="#A80000">Red<tspan dy="-6">2.03</tspan></text>
     <text dy="128" fill="#006100">Green<tspan dy="-6">2.07</tspan></text>
-   <text dy="160" fill="#999900">Yellow<tspan dy="-6">5.28</tspan></text>
+    <text dy="160" fill="#999900">Yellow<tspan dy="-6">5.28</tspan></text>
     <text dy="192" fill="#8585FF">Blue<tspan dy="-6">5.19</tspan></text>
     <text dy="224" fill="#940094">Purple<tspan dy="-6">2.05</tspan></text>
     <text dy="256" fill="#006141">Cyan<tspan dy="-6">2.12</tspan></text>

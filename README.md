@@ -29,21 +29,6 @@ This is my attempt to create an accessible color scheme for the terminal emu
 ````
 * Then you can set *Aquamarine* in the file itself (look for `"colorScheme"`), or do it in the GUI for a specific profile or as default.
 
-### [Alacritty](https://alacritty.org/)
-
-#### Versions before 0.13.0
-
-* Place `Aquamarine.yml` anywhere you want.
-* Add the line to `~/.config/alacritty/alacritty.yml` somewhere at the top:
-````
-import: [/path/to/Aquamarine.yml]
-````
-* (You will [need to create](https://github.com/alacritty/alacritty?tab=readme-ov-file#configuration) `alacritty.yml` if it doesn’t exist.)
-
-#### Versions after 0.13.0
-
-*WIP*
-
 ### [Termux](https://termux.dev/en/)
 
 Place `colors.properties` into `~/.termux/` and execute `termux-reload-settings`.

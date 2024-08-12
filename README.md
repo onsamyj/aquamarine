@@ -1,6 +1,6 @@
 # Aquamarine
 
-This is my attempt to create an accessible color scheme for the terminal emulators I use.
+This is my attempt to create an accessible color scheme for the programs I use.
 
 ![Table showing colors in normal, intense and faint variants, with numbers representing contrast.](table.svg)
 
@@ -27,7 +27,7 @@ This is my attempt to create an accessible color scheme for the terminal emu
         }
     ],
 ````
-* Then you can set *Aquamarine* in the file itself (look for `"colorScheme"`), or do it in the GUI for a specific profile or as default.
+* Then you can set *Aquamarine* in the file itself (look for `"colorScheme"`), or do it in the GUI for a specific profile or as a default.
 
 ### [Termux](https://termux.dev/en/)
 
@@ -36,8 +36,8 @@ Place `colors.properties` into `~/.termux/` and execute `termux-reload-settings`
 ### [ghostwriter](https://ghostwriter.kde.org/)
 
 * Place `Aquamarine.json` into `~/.config/ghostwriter/themes/`.
-* In *ghostwriter*, select the theme in Settings → Themes.
-* **Warning!** It doesn’t have a light variant, the dark one was just duplicated as a light one.
+* In *ghostwriter*, select the theme from *Settings* → *Themes*.
+* **Warning!** The theme doesn’t have a light variant, the dark one is just duplicated as a light one.
 
 ## Accessible how?
 

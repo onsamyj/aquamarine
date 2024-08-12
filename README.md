@@ -33,6 +33,12 @@ This is my attempt to create an accessible color scheme for the terminal emu
 
 Place `colors.properties` into `~/.termux/` and execute `termux-reload-settings`.
 
+### [ghostwriter](https://ghostwriter.kde.org/)
+
+* Place `Aquamarine.json` into `~/.config/ghostwriter/themes/`.
+* In *ghostwriter*, select the theme in Settings → Themes.
+* **Warning!** It doesn’t have a light variant, the dark one was just duplicated as a light one.
+
 ## Accessible how?
 
 Contrast, mostly. I just took base colors (blue, red, purple, etc.) and adjusted them using [ColorShark](https://colorshark.io).
